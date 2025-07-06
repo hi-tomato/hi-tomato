@@ -1,8 +1,6 @@
 <div align="center">
 
-# 안녕하세요! 👋
-## 웹 퍼블리셔에서 프론트엔드 개발자로 성장하고 있는 **이승준**입니다
-
+**웹 퍼블리셔에서 프론트엔드 개발자로 성장하고 있는 **이승준**입니다**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%26+TypeScript+Lover;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
@@ -18,22 +16,6 @@ const currentFocus = {
   performance: "최적화된 웹 애플리케이션 개발",
 };
 ```
-
-## 💼 Journey
-
-```mermaid
-graph LR
-    A[웹 퍼블리셔] --> B[프론트엔드 개발자]
-    B --> C[풀스택 개발자]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-```
-
-- 반응형 웹 디자인과 크로스 브라우저 호환성 경험
-- 디자인 시스템 구축 및 컴포넌트 개발
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -73,11 +55,10 @@ graph LR
 
 ## 🎯 Goals
 
-> **"사용자가 행복한 웹을 만들고 싶습니다"**
+> **"읽기 좋고 확장성이 좋은 코드를 만들고 싶은 개발자가 되고 싶습니다"**
 
 - 📱 사용자 친화적인 웹 애플리케이션 개발
 - 🧹 깔끔하고 유지보수 가능한 코드 작성
-- 🤝 개발 커뮤니티 기여
 
 ## 📫 Get in Touch
 
