@@ -1,5 +1,5 @@
 <div align="center">
-# 웹 퍼블리셔에서 프론트엔드 개발자로 성장하고 있는 **이승준**입니다
+#웹 퍼블리셔에서 프론트엔드 개발자로 성장하고 있는 **이승준**입니다
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%26+TypeScript+Lover;Always+Learning+New+Things)](https://git.io/typing-svg)
 </div>
