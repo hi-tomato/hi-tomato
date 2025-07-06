@@ -1,10 +1,14 @@
 <div align="center">
-#웹 퍼블리셔에서 프론트엔드 개발자로 성장하고 있는 **이승준**입니다
+
+# 웹 퍼블리셔에서 프론트엔드 개발자로 성장하고 있는 **이승준**입니다
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%26+TypeScript+Lover;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 </div>
 
 ---
+
+## 🚀 현재 집중하고 있는 것
 
 ```typescript
 const currentFocus = {
@@ -13,6 +17,7 @@ const currentFocus = {
   performance: "최적화된 웹 애플리케이션 개발",
 };
 ```
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -62,14 +67,5 @@ const currentFocus = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmdwns0927@naver.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hi-tomato)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hi-tomato&color=brightgreen&style=for-the-badge)
 
 </div>
