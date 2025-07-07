@@ -1,4 +1,3 @@
-<div align="center">
 ## 🚀 현재 집중하고 있는 것
 
 ```typescript
