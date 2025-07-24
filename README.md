@@ -1,13 +1,3 @@
-## 🚀 현재 집중하고 있는 것
-
-```typescript
-const currentFocus = {
-  development: "React + TypeScript 기반 모던 프론트엔드",
-  userExperience: "직관적이고 접근성 높은 인터페이스 구현",
-  performance: "최적화된 웹 애플리케이션 개발",
-};
-```
-
 ## 🛠️ Tech Stack
 
 ### Frontend
