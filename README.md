@@ -4,7 +4,7 @@
 
 **React Native와 Next.js로 모바일과 웹을 함께 만드는 프론트엔드 개발자입니다.**
 
-![stats](https://github-readme-stats.vercel.app/api?username=hi-tomato&count_private=true&show_icons=true)
+![contributions](https://ghchart.rshah.org/1478E8/hi-tomato)
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,kotlin,swift,jest" alt="TypeScript, JavaScript, React, Next.js, Kotlin, Swift, Jest" />
